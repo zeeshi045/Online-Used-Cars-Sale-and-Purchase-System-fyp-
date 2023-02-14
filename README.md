@@ -1,10 +1,10 @@
 # Online-Used-Cars-Sale-and-Purchase-System-fyp-
 
-#Introduction
+#Introduction:
 Online used cars sale and purchase system is a platform where users can easily perform selling and buying of used cars. This application will allow sellers to add used cars with their particulars and car details. Sellers can list the car for sale to the buyers. Buyers/Guest can view all used cars and can contact the seller. Admin will be responsible for different tasks such as add/update/delete car brands and add/update/delete car models etc. Our online used cars sale and purchase system provides lots of functions such data entry of seller, keeping records of all the things about cars specifications, and physical condition of vehicles which help to provide good quality of services to buyers on our website.
 
 
-#Requirements
+#Requirements:
 • Register
     Users must have to register their profiles to access application. They can register
    their profile by giving their username, email address, mobile number, and address.
